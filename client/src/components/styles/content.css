@@ -2,50 +2,53 @@
     /* border: 1px solid rgb(0, 0, 0); */
 }
 .content{
-    background-color: rgb(96, 133, 133);
+    /* background-color: rgb(96, 133, 133); */
     margin: 0px;
     display: flex;
     justify-items: center;
     flex-direction: column;
 }
 .searchclm{
-    border: 1px solid black;
+    /* border: 1px solid black; */
     display: grid;
     grid-template-columns: 1fr 1fr;
     padding: 10px;
+    margin-right: 2px;
     position: sticky;
     top: 0px;
+    border-bottom: 1px solid rgb(221, 218, 218);
+    border-bottom-width: 0.5px;
 }
 .peopleclm{
-    border: 1px solid black;
+    /* border: 1px solid black; */
     display: grid;
     /* margin-top: 7px; */
     grid-template-columns: 1fr 1fr;
     padding: 10px;
 }
 .object2{
-    border: 1px solid black;
+    /* border: 1px solid black; */
     display: flex;
     justify-content: end;
     margin-right: 20px;
     align-items: center;
 }
 .object1{
-    border: 1px solid black;
+    /* border: 1px solid black; */
     display: flex;
     justify-content: start;
     margin-left: 25px;
     align-items: center;
 }
 .object4{
-    border: 1px solid black;
+    /* border: 1px solid black; */
     display: flex;
     justify-content: end;
     margin-right: 20px;
     align-items: center;
 }
 .object3{
-    border: 1px solid black;
+    /* border: 1px solid black; */
     display: flex;
     justify-content: start;
     margin-left: 25px;
@@ -56,10 +59,11 @@
     width: 250px;
     border-radius: 25px;
     border-style: none;
+    border: 1px solid rgb(223, 223, 223);
 }
 /* MAIN CONTENT */
 .main-content{
-    border: 1px solid rgb(255, 255, 255);
+    /* border: 1px solid rgb(255, 255, 255); */
     display: grid;
     grid-template-columns: 1fr 1fr;
     padding: 10px;
@@ -71,20 +75,46 @@
     align-items: center; */
 }
 .object,.object5,.side2,.side1{
-    border: 1px solid rgb(168, 36, 36);
+    /* border: 7px solid rgb(255, 255, 255); */
+    border-bottom: none;
+    border-radius: 5px;
 }
 .object{
-    margin: 20px;
+    margin:20px;
 }
 
 .side-image{
     width: 250px;
+    border-radius:5px;
 }
 .side2{
     display: flex;
     justify-content: space-evenly;
     align-items: center;
     flex-direction: column;
-
-
+}
+.sidenv{
+    /* border: 1px solid black; */
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+}
+.actions{
+    display: flex;
+    justify-content:space-evenly;
+    align-items:center;
+}
+.icons{
+    width: 20px;
+}
+.logo1{
+    width: 23px;
+    position: relative;
+    top: 1.5px;
+    border-radius: 30px;
+}
+.uname{
+    /* background-color: blue; */
+    position: relative;
+    bottom: 4px;
+    left: 5px;
 }

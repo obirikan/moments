@@ -18,30 +18,128 @@ const Content = () => {
            <div className='object'> 
               <div>
                  <img src="./fastreach.jpg" alt="" srcset="" className='side-image'/>  
-                 <p>only te boy</p> 
               </div>
-              <div className='sidenv'>sdkldlskdslkd</div>
-           </div>
-           <div className='object'> 
-             <div>
-                 <img src="./fastreach.jpg" alt="" srcset="" className='side-image'/> 
-                 <p>only te boy</p> 
-             </div>
-             <div className='sidenv'>sdkldlskdslkd</div>
+              <div className='sidenv'>
+                 <p><img src="./logo512.png" alt="" className='logo1'/><span className='uname'>kelvin</span></p>
+                 <p className='actions'>
+                   <img src="./logo512.png" alt="" className='icons'/>
+                    <span>20</span>
+                   <img src="./logo512.png" alt="" className='icons'/>
+                   <span>30</span>
+                   </p>
+              </div>
            </div>
            <div className='object'> 
               <div>
                  <img src="./fastreach.jpg" alt="" srcset="" className='side-image'/>  
-                 <p>only te boy</p> 
               </div>
-              <div className='sidenv'>sdkldlskdslkd</div>
+              <div className='sidenv'>
+                 <p><img src="./logo512.png" alt="" className='logo1'/><span className='uname'>kelvin</span></p>
+                 <p className='actions'>
+                   <img src="./logo512.png" alt="" className='icons'/>
+                    <span>20</span>
+                   <img src="./logo512.png" alt="" className='icons'/>
+                   <span>30</span>
+                   </p>
+              </div>
            </div>
            <div className='object'> 
-             <div>
-                 <img src="./fastreach.jpg" alt="" srcset="" className='side-image'/> 
-                 <p>only te boy</p> 
-             </div>
-             <div className='sidenv'>sdkldlskdslkd</div>
+              <div>
+                 <img src="./fastreach.jpg" alt="" srcset="" className='side-image'/>  
+              </div>
+              <div className='sidenv'>
+                 <p><img src="./logo512.png" alt="" className='logo1'/><span className='uname'>kelvin</span></p>
+                 <p className='actions'>
+                   <img src="./logo512.png" alt="" className='icons'/>
+                    <span>20</span>
+                   <img src="./logo512.png" alt="" className='icons'/>
+                   <span>30</span>
+                   </p>
+              </div>
+           </div>
+           <div className='object'> 
+              <div>
+                 <img src="./fastreach.jpg" alt="" srcset="" className='side-image'/>  
+              </div>
+              <div className='sidenv'>
+                 <p><img src="./logo512.png" alt="" className='logo1'/><span className='uname'>kelvin</span></p>
+                 <p className='actions'>
+                   <img src="./logo512.png" alt="" className='icons'/>
+                    <span>20</span>
+                   <img src="./logo512.png" alt="" className='icons'/>
+                   <span>30</span>
+                   </p>
+              </div>
+           </div>
+           <div className='object'> 
+              <div>
+                 <img src="./fastreach.jpg" alt="" srcset="" className='side-image'/>  
+              </div>
+              <div className='sidenv'>
+                 <p><img src="./logo512.png" alt="" className='logo1'/><span className='uname'>kelvin</span></p>
+                 <p className='actions'>
+                   <img src="./logo512.png" alt="" className='icons'/>
+                    <span>20</span>
+                   <img src="./logo512.png" alt="" className='icons'/>
+                   <span>30</span>
+                   </p>
+              </div>
+           </div>
+           <div className='object'> 
+              <div>
+                 <img src="./fastreach.jpg" alt="" srcset="" className='side-image'/>  
+              </div>
+              <div className='sidenv'>
+                 <p><img src="./logo512.png" alt="" className='logo1'/><span className='uname'>kelvin</span></p>
+                 <p className='actions'>
+                   <img src="./logo512.png" alt="" className='icons'/>
+                    <span>20</span>
+                   <img src="./logo512.png" alt="" className='icons'/>
+                   <span>30</span>
+                   </p>
+              </div>
+           </div>
+           <div className='object'> 
+              <div>
+                 <img src="./fastreach.jpg" alt="" srcset="" className='side-image'/>  
+              </div>
+              <div className='sidenv'>
+                 <p><img src="./logo512.png" alt="" className='logo1'/><span className='uname'>kelvin</span></p>
+                 <p className='actions'>
+                   <img src="./logo512.png" alt="" className='icons'/>
+                    <span>20</span>
+                   <img src="./logo512.png" alt="" className='icons'/>
+                   <span>30</span>
+                   </p>
+              </div>
+           </div>
+           <div className='object'> 
+              <div>
+                 <img src="./fastreach.jpg" alt="" srcset="" className='side-image'/>  
+              </div>
+              <div className='sidenv'>
+                 <p><img src="./logo512.png" alt="" className='logo1'/><span className='uname'>kelvin</span></p>
+                 <p className='actions'>
+                   <img src="./logo512.png" alt="" className='icons'/>
+                    <span>20</span>
+                   <img src="./logo512.png" alt="" className='icons'/>
+                   <span>30</span>
+                   </p>
+              </div>
+           </div>
+            <div className='object'> 
+              <div>
+                 <img src="./fastreach.jpg" alt="" srcset="" className='side-image'/>  
+              </div>
+              <div className='sidenv'>
+                 <p><img src="./logo512.png" alt="" className='logo1'/><span className='uname'>kelvin</span></p>
+                 <p className='actions'>
+                   <img src="./logo512.png" alt="" className='icons'/>
+                    <span>20</span>
+                   <img src="./logo512.png" alt="" className='icons'/>
+                   <span>30</span>
+                   </p>
+              </div>
            </div>
          </div>
     </div>
