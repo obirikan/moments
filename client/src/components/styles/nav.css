@@ -1,7 +1,7 @@
 .sidenav{
   border: 1px solid black;
   margin:0px;
-  width: 15vw;
+  width: 14%;
   height: 100vh;
   display: flex;
   flex-direction: column;

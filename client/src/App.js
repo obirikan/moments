@@ -1,5 +1,6 @@
 import Sidenav from "./components/Sidenav";
 import Content from './components/Content'
+import Aside from './components/Aside'
 import './App.css'
 function App() {
   return (
@@ -11,7 +12,7 @@ function App() {
       <Content/>
     </div>
     <div className="child3">
-    <Sidenav/>
+    <Aside/>
     </div>
   </div>
   );
